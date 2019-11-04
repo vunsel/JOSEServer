@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3209c31-5f1e-4cca-902e-2a67f056e6b2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JOSEServer" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T9miOAFKkNIzRVD0tSBHUgzRj6" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.20625609" />
+    <property name="project.structure.side.proportion" value="0.27887982" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="eu.vin.joseserver" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/eu/vin/joseserver/controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.JOSEServer [clean,compile,exec:java]">
+    <configuration name="JOSEServer [clean,compile,exec:java]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="exec:java" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="JOSEServer [clean,compile,package,-X-,e]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="package" />
+                <option value="-X-" />
+                <option value="e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="JOSEServer [clean,compile,package,-e,-X]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="package" />
+                <option value="-e" />
+                <option value="-X" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="JOSEServer [deploy-war]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:deploy-war" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="JOSEServer [jetty:run-war]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run-war" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="JOSEServer [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.JOSEServer [deploy-war]" />
+      <item itemvalue="Maven.JOSEServer [jetty:run-war]" />
+      <item itemvalue="Maven.JOSEServer [clean,compile,exec:java]" />
+      <item itemvalue="Maven.JOSEServer [clean,compile,package,-X-,e]" />
+      <item itemvalue="Maven.JOSEServer [jetty:run]" />
+      <item itemvalue="Maven.JOSEServer [clean,compile,package,-e,-X]" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3209c31-5f1e-4cca-902e-2a67f056e6b2" name="Default Changelist" comment="" />
+      <created>1557528566272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557528566272</updated>
+      <workItem from="1557528569722" duration="6847000" />
+      <workItem from="1557535447042" duration="3618000" />
+      <workItem from="1557550892560" duration="29324000" />
+      <workItem from="1557734678859" duration="39641000" />
+      <workItem from="1558008224638" duration="15122000" />
+      <workItem from="1558124671652" duration="1631000" />
+      <workItem from="1558366159614" duration="227000" />
+      <workItem from="1558367702449" duration="1242000" />
+      <workItem from="1558512628685" duration="2715000" />
+      <workItem from="1558957051470" duration="2725000" />
+      <workItem from="1558962687126" duration="6489000" />
+      <workItem from="1559041109174" duration="5305000" />
+      <workItem from="1560172452625" duration="29670000" />
+      <workItem from="1560675823354" duration="2259000" />
+      <workItem from="1560960379907" duration="30828000" />
+      <workItem from="1561367421236" duration="2005000" />
+      <workItem from="1561405690738" duration="2032000" />
+      <workItem from="1561476418582" duration="22045000" />
+      <workItem from="1562794061804" duration="598000" />
+      <workItem from="1563127238366" duration="13000" />
+      <workItem from="1565636214548" duration="976000" />
+      <workItem from="1566066786874" duration="1228000" />
+      <workItem from="1566332170636" duration="3556000" />
+      <workItem from="1567101160731" duration="1711000" />
+      <workItem from="1567455062429" duration="9276000" />
+      <workItem from="1568704004071" duration="1232000" />
+      <workItem from="1569187242004" duration="598000" />
+      <workItem from="1569348386408" duration="1830000" />
+      <workItem from="1570278622370" duration="705000" />
+      <workItem from="1572880813477" duration="2894000" />
+      <workItem from="1572896469148" duration="445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwt/consumer/JwtConsumer.java</url>
+          <line>363</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/JsonWebEncryption.java</url>
+          <line>196</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/AesCbcHmacSha2ContentEncryptionAlgorithm.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/AesCbcHmacSha2ContentEncryptionAlgorithm.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/AesCbcHmacSha2ContentEncryptionAlgorithm.java</url>
+          <line>140</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/AesCbcHmacSha2ContentEncryptionAlgorithm.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/AesCbcHmacSha2ContentEncryptionAlgorithm.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/AesCbcHmacSha2ContentEncryptionAlgorithm.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/AesCbcHmacSha2ContentEncryptionAlgorithm.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/AesCbcHmacSha2ContentEncryptionAlgorithm.java</url>
+          <line>152</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/AesCbcHmacSha2ContentEncryptionAlgorithm.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/AesCbcHmacSha2ContentEncryptionAlgorithm.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/JsonWebEncryption.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/kdf/ConcatKeyDerivationFunction.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/kdf/ConcatKeyDerivationFunction.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/kdf/ConcatKeyDerivationFunction.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/kdf/ConcatKeyDerivationFunction.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/kdf/ConcatKeyDerivationFunction.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/kdf/ConcatKeyDerivationFunction.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/kdf/ConcatKeyDerivationFunction.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/kdf/ConcatKeyDerivationFunction.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/bitbucket/b_c/jose4j/0.5.4/jose4j-0.5.4-sources.jar!/org/jose4j/jwe/kdf/ConcatKeyDerivationFunction.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>authenticationTagInput[0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JOSEServer:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27887982" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27887982" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27887982" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27887982" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JOSEServer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27887982" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.github.stephenc.jcip:jcip-annotations:1.0-1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27887982" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
